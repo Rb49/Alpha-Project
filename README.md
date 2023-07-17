@@ -1,6 +1,6 @@
 # Alpha-Project
-Source code used for my Alpha Project, used for identifying the characteristics of the duodenum tissue by analyzing the proximity between certain populations of immune cells, by comparison with tissues affected by GvHD.
-The project was conducted as part of research on the characterization of GvHD (Graft versus Host Disease), supervised by the Weizmann Institute of Science.
+Source code used for my Alpha Project, used for identifying the characteristics of the duodenum tissue by analyzing the proximity between certain populations of immune cells, by comparison with tissues affected by GvHD  (Graft versus Host Disease).
+The project was conducted as part of research on the characterization of GvHD, supervised by the Weizmann Institute of Science.
 
   - A clearer README presenting the research specifications will be added soon.
 

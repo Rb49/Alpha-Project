@@ -10,4 +10,4 @@ The project was conducted as part of research on the characterization of GvHD, s
 
 For now, source files are included along with raw output data ('hists' folder).
 
-### This project was supervised by Nofar Azulai, Department of Molecular Biology, the Weizmann Institute of Science.
+### This project was supervised by Nofar Azulay, Department of Molecular Biology, the Weizmann Institute of Science.

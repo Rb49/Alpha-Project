@@ -8,6 +8,6 @@ The project was conducted as part of research on the characterization of GvHD (G
 
   - Example data needed for running the project will be created and uploaded, as the data used for my analysis is under copyright.
 
-For now, source files are included along with raw output data.
+For now, source files are included along with raw output data ('hists' folder).
 
 ### This project was supervised by Nofar Azulai, Department of Molecular Biology, the Weizmann Institute of Science.
